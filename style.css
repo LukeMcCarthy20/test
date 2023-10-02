@@ -1,11 +1,11 @@
-#top-div {
+.top-div {
   width: 200px;
   position: relative;
-  background-color: red; 
 }
 
-#inner-div {
+.inner-div {
   width: 100px;
-  display: inline;
-  background-color: blue;
+  position: absolute;
+  left: 50%;
+  top: 50%;
 }
