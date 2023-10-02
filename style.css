@@ -1,0 +1,11 @@
+#top-div {
+  width: 200px;
+  position: relative;
+  background-color: red; 
+}
+
+#inner-div {
+  width: 100px;
+  display: inline;
+  background-color: blue;
+}
